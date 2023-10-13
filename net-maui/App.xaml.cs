@@ -1,4 +1,5 @@
 ﻿using net_maui.Views.Pages.FlyoutSample;
+using net_maui.Views.Pages.TabbedPageSample;
 
 namespace net_maui
 {
@@ -8,7 +9,7 @@ namespace net_maui
         {
             InitializeComponent();
 
-            MainPage = new FlyoutSamplePage();
+            MainPage = new TabbedPageSample();
         }
     }
 }
