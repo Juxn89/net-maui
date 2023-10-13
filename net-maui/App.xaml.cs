@@ -1,4 +1,6 @@
-﻿namespace net_maui
+﻿using net_maui.Views.Pages.FlyoutSample;
+
+namespace net_maui
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new FlyoutSamplePage();
         }
     }
 }

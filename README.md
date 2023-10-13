@@ -22,4 +22,5 @@
 - [Set up Android device for debugging](https://learn.microsoft.com/en-us/dotnet/maui/android/device/setup)
 - [Deploy and debug your .NET MAUI app on Windows](https://learn.microsoft.com/en-us/dotnet/maui/windows/setup)
 - [XAML namespaces](https://learn.microsoft.com/en-us/dotnet/maui/xaml/namespaces/)
+- [Custom Fonts & Material Design Icons in .NET MAUI](https://cedricgabrang.medium.com/custom-fonts-material-design-icons-in-net-maui-acf59c9f98fe)
 
