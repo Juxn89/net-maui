@@ -3,9 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="net_maui.Views.Pages.TabbedPageSample.TabbedPageSample"
              Title="TabbedPageSample"
-             xmlns:Views="clr-namespace:net_maui.Views.Pages.TabbedPageSample"
-             android:TabbedPage.ToolbarPlacement="Bottom"
-            >
+             xmlns:Views="clr-namespace:net_maui.Views.Pages.TabbedPageSample">
     <Views:Contacts />
     <Views:Calendar />
     <Views:Reminders />
