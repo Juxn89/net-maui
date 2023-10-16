@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="net_maui.Views.Pages.AbsoluteLayout.AbsoluteLayoutSample"
+             Title="AbsoluteLayoutSample">
+    <AbsoluteLayout Margin="20">
+        <BoxView BackgroundColor="Silver" AbsoluteLayout.LayoutBounds="0.33,0.33,200,5" AbsoluteLayout.LayoutFlags="All" Color="AliceBlue"/>
+        <BoxView BackgroundColor="Silver" AbsoluteLayout.LayoutBounds="40,40,200,5" Color="Green"/>
+        <BoxView BackgroundColor="Silver" AbsoluteLayout.LayoutBounds="15,0,5,200" Color="Red"/>
+        <BoxView BackgroundColor="Silver" AbsoluteLayout.LayoutBounds="35,0,5,200" Color="Yellow"/>
+        <Label TextColor="Purple" Text="This is a test" AbsoluteLayout.LayoutBounds="65,60" />
+    </AbsoluteLayout>
+</ContentPage>

@@ -1,4 +1,4 @@
-﻿using net_maui.Views.Pages.StackLayout;
+﻿using net_maui.Views.Pages.AbsoluteLayout;
 
 namespace net_maui
 {
@@ -8,7 +8,7 @@ namespace net_maui
         {
             InitializeComponent();
 
-            MainPage = new StackLayoutChallenge();
+            MainPage = new AbsoluteLayoutSample();
         }
     }
 }
