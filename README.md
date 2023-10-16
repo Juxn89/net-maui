@@ -21,6 +21,10 @@
 - [All-in-One .NET MAUI App Project Template](https://egvijayanand.in/2022/02/17/all-in-one-dotnet-maui-app-project-template/)
 - [.NET MAUI – Develop with Visual Studio Code](https://egvijayanand.in/2021/04/04/net-maui-project-debug-with-vs-code/)
 
+### Styles
+- [Resource dictionaries](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/resource-dictionaries)
+- [.NET MAUI – Manage App Resources](https://egvijayanand.in/2021/08/20/net-maui-manage-app-resources/)
+
 ### Otros
 - [.NET MAUI Shell overview](https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/shell/?view=net-maui-7.0)
 - [Set up Android device for debugging](https://learn.microsoft.com/en-us/dotnet/maui/android/device/setup)
