@@ -8,7 +8,7 @@ namespace net_maui
         {
             InitializeComponent();
 
-            MainPage = new GridLayoutSample();
+            MainPage = new GridLayoutChallengeExtra();
         }
     }
 }

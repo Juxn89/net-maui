@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="net_maui.Views.Pages.GridLayout.GridLayoutChallengeExtra"
+             Title="GridLayoutChallengeExtra">
+    <Grid RowDefinitions="*,*,*,*,*,*" ColumnDefinitions="*, *, *" ColumnSpacing="2" RowSpacing="2">
+        <BoxView Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2" Color="CornflowerBlue"/>
+        <BoxView Grid.Row="0" Grid.Column="3" Color="Violet"/>
+        <BoxView Grid.Row="1" Grid.Column="3" Color="Violet"/>
+        
+        <BoxView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Color="DarkSeaGreen"/>
+        <BoxView Grid.Row="2" Grid.Column="3" Color="BlueViolet"/>
+        
+        <BoxView Grid.Row="3" Grid.Column="0" Color="PaleVioletRed"/>
+        <BoxView Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Color="PaleVioletRed"/>
+        
+        <BoxView Grid.Row="4" Grid.Column="0" Color="SeaGreen"/>
+        <BoxView Grid.Row="4" Grid.Column="1" Color="SeaGreen"/>
+        <BoxView Grid.Row="4" Grid.Column="2" Color="SeaGreen"/>
+        
+        <BoxView Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Color="MediumVioletRed"/>
+    </Grid>
+</ContentPage>

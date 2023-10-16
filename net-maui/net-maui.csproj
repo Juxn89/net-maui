@@ -76,6 +76,12 @@
 	  <MauiXaml Update="Views\Pages\FlyoutSample\FlyoutSamplePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\Pages\GridLayout\GridLayoutChallenge.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Pages\GridLayout\GridLayoutChallengeExtra.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\Pages\GridLayout\GridLayoutSample.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
