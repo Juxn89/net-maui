@@ -8,7 +8,7 @@ namespace net_maui
         {
             InitializeComponent();
 
-            MainPage = new StackLayoutSamplePage();
+            MainPage = new StackLayoutChallenge();
         }
     }
 }
