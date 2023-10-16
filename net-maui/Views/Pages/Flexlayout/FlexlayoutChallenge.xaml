@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="net_maui.Views.Pages.Flexlayout.FlexlayoutChallenge"
+             Title="FlexlayoutChallenge">
+    <FlexLayout Direction="Column">
+        <Label Text="Choose illustration" HorizontalTextAlignment="Center" />
+
+        <Frame CornerRadius="20" Margin="20,30">
+            <FlexLayout Direction="Column" AlignItems="Center">
+                <Label Text="Nature" HorizontalTextAlignment="Center"/>
+                <Image Source="batman_logo" Aspect="AspectFit" />
+                <Label Text="$50" FontAttributes="Bold" TextColor="DarkBlue" FontSize="30"/>
+            </FlexLayout>
+        </Frame>
+    </FlexLayout>
+</ContentPage>

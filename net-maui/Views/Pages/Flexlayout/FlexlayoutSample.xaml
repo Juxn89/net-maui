@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="net_maui.Views.Pages.Flexlayout.FlexlayoutSample"
+             Title="FlexlayoutSample">
+    <!--<FlexLayout Wrap="Wrap">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>-->
+    
+    <!--<FlexLayout Wrap="Reverse">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>-->
+
+    <!--<FlexLayout Direction="Column">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>-->
+
+    <!--<FlexLayout Direction="Row">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>-->
+
+    <!--<FlexLayout JustifyContent="End">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>-->
+
+    <!--<FlexLayout JustifyContent="SpaceBetween">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>-->
+
+    <!--<FlexLayout JustifyContent="SpaceAround">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>-->
+
+    <FlexLayout AlignItems="Center">
+        <Button BackgroundColor="LightGreen" Text="Button" />
+        <Button BackgroundColor="PaleVioletRed" Text="Button" />
+        <Button BackgroundColor="LightBlue" Text="Button" />
+    </FlexLayout>
+</ContentPage>

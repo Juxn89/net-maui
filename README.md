@@ -14,6 +14,7 @@
 - [StackLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/stacklayout) ```Organiza vista secundarias horizontal o vertical```
 - [AbsoluteLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/absolutelayout)
 - [GridLayout](https://www.telerik.com/blogs/exploring-new-grid-structure-xamarin-forms)
+- [FlexLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/flexlayout)
 
 ### Templates
 - [.NET MAUI – Project Template](https://egvijayanand.in/2021/04/03/net-maui-project-template/)
@@ -29,4 +30,5 @@
 - [Custom Fonts & Material Design Icons in .NET MAUI](https://cedricgabrang.medium.com/custom-fonts-material-design-icons-in-net-maui-acf59c9f98fe)
 - [Working with AbsoluteLayout in Xamarin Forms](https://askxammy.com/working-with-absolutelayout-in-xamarin-forms/)
 - [Working with GridLayout in Xamarin Forms](https://askxammy.com/working-with-gridlayout-in-xamarin-forms/)
+- [Getting started with FlexLayout Properties Behavior](https://askxammy.com/getting-started-with-flexlayout-properties-behavior/)
 

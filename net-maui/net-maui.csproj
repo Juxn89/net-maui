@@ -70,6 +70,15 @@
 	  <MauiXaml Update="Views\Pages\AbsoluteLayout\AbsoluteLayoutSample.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\Pages\Flexlayout\FlexlayoutChallenge.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Pages\Flexlayout\FlexlayoutChallengeExtra.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Pages\Flexlayout\FlexlayoutSample.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\Pages\FlyoutSample\FlyoutMenuPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

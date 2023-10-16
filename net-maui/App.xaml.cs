@@ -1,4 +1,4 @@
-﻿using net_maui.Views.Pages.GridLayout;
+﻿using net_maui.Views.Pages.Flexlayout;
 
 namespace net_maui
 {
@@ -8,7 +8,7 @@ namespace net_maui
         {
             InitializeComponent();
 
-            MainPage = new GridLayoutChallengeExtra();
+            MainPage = new FlexlayoutChallengeExtra();
         }
     }
 }
