@@ -64,6 +64,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Views\Pages\AbsoluteLayout\AbsoluteLayoutChallenge.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\Pages\AbsoluteLayout\AbsoluteLayoutSample.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

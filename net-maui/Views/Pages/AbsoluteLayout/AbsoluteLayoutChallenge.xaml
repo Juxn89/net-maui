@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="net_maui.Views.Pages.AbsoluteLayout.AbsoluteLayoutChallenge"
+             Title="AbsoluteLayoutChallenge">
+    <AbsoluteLayout HorizontalOptions="CenterAndExpand">
+        <Image Source="the_batman_logo" AbsoluteLayout.LayoutBounds="1,0,350,300" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Label AbsoluteLayout.LayoutBounds=".10,.18,60,30" AbsoluteLayout.LayoutFlags="XProportional,YProportional" HorizontalTextAlignment="Center" Text="999" TextColor="White" FontAttributes="Bold" FontSize="20"/>
+        <Label AbsoluteLayout.LayoutBounds=".35,.18,60,30" AbsoluteLayout.LayoutFlags="XProportional,YProportional" HorizontalTextAlignment="Center" Text="999" TextColor="White" FontAttributes="Bold" FontSize="20"/>
+        <Label AbsoluteLayout.LayoutBounds=".60,.18,60,30" AbsoluteLayout.LayoutFlags="XProportional,YProportional" HorizontalTextAlignment="Center" Text="999" TextColor="White" FontAttributes="Bold" FontSize="20"/>
+        <Label AbsoluteLayout.LayoutBounds=".85,.18,60,30" AbsoluteLayout.LayoutFlags="XProportional,YProportional" HorizontalTextAlignment="Center" Text="999" TextColor="White" FontAttributes="Bold" FontSize="20"/>
+        <Label AbsoluteLayout.LayoutBounds=".10,.25,160,30" AbsoluteLayout.LayoutFlags="XProportional,YProportional" HorizontalTextAlignment="Center" Text="Juan Gómez" TextColor="White" FontAttributes="Bold" FontSize="20" WidthRequest="120"/>
+    </AbsoluteLayout>
+</ContentPage>

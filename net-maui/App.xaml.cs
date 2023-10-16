@@ -8,7 +8,7 @@ namespace net_maui
         {
             InitializeComponent();
 
-            MainPage = new AbsoluteLayoutSample();
+            MainPage = new AbsoluteLayoutChallenge();
         }
     }
 }

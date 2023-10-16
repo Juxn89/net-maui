@@ -12,6 +12,7 @@
 - [NavigationPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/navigationpage) ``` Facilita la navegación```
 - [TabbedPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/tabbedpage) ```Tabula la información```
 - [StackLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/stacklayout) ```Organiza vista secundarias horizontal o vertical```
+- [AbsoluteLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/absolutelayout)
 
 ### Templates
 - [.NET MAUI – Project Template](https://egvijayanand.in/2021/04/03/net-maui-project-template/)
@@ -24,4 +25,5 @@
 - [Deploy and debug your .NET MAUI app on Windows](https://learn.microsoft.com/en-us/dotnet/maui/windows/setup)
 - [XAML namespaces](https://learn.microsoft.com/en-us/dotnet/maui/xaml/namespaces/)
 - [Custom Fonts & Material Design Icons in .NET MAUI](https://cedricgabrang.medium.com/custom-fonts-material-design-icons-in-net-maui-acf59c9f98fe)
+- [Working with AbsoluteLayout in Xamarin Forms](https://askxammy.com/working-with-absolutelayout-in-xamarin-forms/)
 
