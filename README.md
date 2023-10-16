@@ -10,7 +10,8 @@
 - [ContentPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/contentpage) ```Diseño libre```
 - [FlyoutPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/flyoutpage) ```Dos páginas, el menú y el contenido```
 - [NavigationPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/navigationpage) ``` Facilita la navegación```
-- [TabbedPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/tabbedpage) ```abular la información```
+- [TabbedPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/tabbedpage) ```Tabula la información```
+- [StackLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/stacklayout) ```Organiza vista secundarias horizontal o vertical```
 
 ### Templates
 - [.NET MAUI – Project Template](https://egvijayanand.in/2021/04/03/net-maui-project-template/)
