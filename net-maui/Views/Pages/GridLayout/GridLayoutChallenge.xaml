@@ -4,7 +4,7 @@
              x:Class="net_maui.Views.Pages.GridLayout.GridLayoutChallenge"
              Title="GridLayoutChallenge">
     <!-- EXPLICIT STYLE -->
-    <ContentPage.Resources>
+    <!--<ContentPage.Resources>
         <ResourceDictionary>
             <Style x:Key="TitleStyle" TargetType="Label">
                 <Setter Property="FontSize" Value="11" />
@@ -13,7 +13,7 @@
                 <Setter Property="BackgroundColor" Value="IndianRed"/>
             </Style>
         </ResourceDictionary>
-    </ContentPage.Resources>
+    </ContentPage.Resources>-->
     
     <VerticalStackLayout BackgroundColor="#8c98b1">
         <Frame Margin="20,30" CornerRadius="20" BackgroundColor="White">
