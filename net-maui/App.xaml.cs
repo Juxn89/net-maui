@@ -1,4 +1,4 @@
-﻿using net_maui.Views.Pages.AbsoluteLayout;
+﻿using net_maui.Views.Pages.GridLayout;
 
 namespace net_maui
 {
@@ -8,7 +8,7 @@ namespace net_maui
         {
             InitializeComponent();
 
-            MainPage = new AbsoluteLayoutChallenge();
+            MainPage = new GridLayoutSample();
         }
     }
 }

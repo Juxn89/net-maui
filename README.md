@@ -13,6 +13,7 @@
 - [TabbedPage](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/pages/tabbedpage) ```Tabula la información```
 - [StackLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/stacklayout) ```Organiza vista secundarias horizontal o vertical```
 - [AbsoluteLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/absolutelayout)
+- [GridLayout](https://www.telerik.com/blogs/exploring-new-grid-structure-xamarin-forms)
 
 ### Templates
 - [.NET MAUI – Project Template](https://egvijayanand.in/2021/04/03/net-maui-project-template/)
@@ -24,6 +25,8 @@
 - [Set up Android device for debugging](https://learn.microsoft.com/en-us/dotnet/maui/android/device/setup)
 - [Deploy and debug your .NET MAUI app on Windows](https://learn.microsoft.com/en-us/dotnet/maui/windows/setup)
 - [XAML namespaces](https://learn.microsoft.com/en-us/dotnet/maui/xaml/namespaces/)
+- [Write and debug running code with Hot Reload in Visual Studio (C#, Visual Basic, C++)](https://learn.microsoft.com/en-us/visualstudio/debugger/hot-reload?view=vs-2022)
 - [Custom Fonts & Material Design Icons in .NET MAUI](https://cedricgabrang.medium.com/custom-fonts-material-design-icons-in-net-maui-acf59c9f98fe)
 - [Working with AbsoluteLayout in Xamarin Forms](https://askxammy.com/working-with-absolutelayout-in-xamarin-forms/)
+- [Working with GridLayout in Xamarin Forms](https://askxammy.com/working-with-gridlayout-in-xamarin-forms/)
 

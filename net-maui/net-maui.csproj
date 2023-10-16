@@ -76,6 +76,9 @@
 	  <MauiXaml Update="Views\Pages\FlyoutSample\FlyoutSamplePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\Pages\GridLayout\GridLayoutSample.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\Pages\StackLayout\StackLayoutChallenge.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
